@@ -5,7 +5,7 @@ sketch学习旅程的一些小小作品
 
 
 
-![小作品1](https://github.com/hwzss/sketch_learning/blob/master/theme%402x.png)
+![小作品1](https://github.com/hwzss/sketch_learning/blob/master/%E4%BD%9C%E5%93%811/theme%402x.png)
 
 
 2.给[pod_updater](https://github.com/hwzss/pod_updater)弄个logo玩玩😯
