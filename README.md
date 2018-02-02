@@ -1,5 +1,5 @@
 # sketch_learning
-sketch学习旅程的一些小小作品
+
 
 1.给自己的App动态更换主题的[demo](https://github.com/hwzss/WZTheme)换个logo
 
@@ -15,3 +15,8 @@ sketch学习旅程的一些小小作品
 
 
 
+3.弄个海景自己瞧
+
+
+
+![夕阳海滩](https://github.com/hwzss/sketch_learning/blob/master/3/%E5%A4%95%E9%98%B3.png)
