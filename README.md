@@ -16,5 +16,5 @@
 
 3. GitHub换个头像
 
-<img src="https://raw.githubusercontent.com/hwzss/sketch_learning/master/5-%E6%98%A5%E8%8A%82%E7%BB%83%E7%BB%83%E6%89%8B/%E6%95%B2%E4%BB%A3%E7%A0%81%E7%9A%84%E8%B7%AF%E9%A3%9E.png" width="20%" height="20%" />
+<img src="https://raw.githubusercontent.com/hwzss/sketch_learning/master/5-%E6%98%A5%E8%8A%82%E7%BB%83%E7%BB%83%E6%89%8B/%E6%95%B2%E4%BB%A3%E7%A0%81%E7%9A%84%E8%B7%AF%E9%A3%9E.png" width="20%" />
 
