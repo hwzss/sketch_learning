@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/hwzss/sketch_learning/master/5-%E6%98%A5%E8%8A%82%E7%BB%83%E7%BB%83%E6%89%8B/%E6%95%B2%E4%BB%A3%E7%A0%81%E7%9A%84%E8%B7%AF%E9%A3%9E.png" width="20%" />
 
-4. 给专辑[文章](https://www.jianshu.com/p/cfc35d8546f0)设计Banner
+4. 给自己[文章](https://www.jianshu.com/p/cfc35d8546f0)设计Banner
 
 ![一张小图.png](https://raw.githubusercontent.com/hwzss/MyArticles/master/URL%E8%8E%B7%E5%8F%96%E5%9B%BE%E7%89%87%E5%AE%BD%E9%AB%98/URL%E8%8E%B7%E5%8F%96%E5%9B%BE%E7%89%87%E5%AE%BD%E9%AB%98.png)
 
